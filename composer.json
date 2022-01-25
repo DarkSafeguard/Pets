@@ -1,0 +1,17 @@
+{
+  "name": "abdikafi/328/hello",
+  "authors": [
+    {
+      "name": "Adam Percival",
+      "email": "Percival.Adam@student.greenriver.edu.com"
+    },
+    {
+      "name": "Adam Percival",
+      "email": "Percival.Adam@student.greenriver.edu.com"
+    }
+  ],
+
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
